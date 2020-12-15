@@ -29,7 +29,8 @@ export const LEADERS = [
     {
       id: 3,
       name: 'Aditya Verma',
-      image: '/assets/images/Aditya.jpeg',
+      // image: '/assets/images/Aditya.jpeg',
+      image: '/assets/images/alberto.png',
       designation: 'Executive Chef',
       abbr: 'EC',
       featured: true,
